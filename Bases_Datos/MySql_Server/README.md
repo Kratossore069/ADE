@@ -60,6 +60,10 @@ Una vez instalado el programa saldrá en la barra de `Inicio` un archivo donde t
 
 ![1](./img/img13.PNG)
 
+- Y queda de esta manera.
+
+![2](./img/xamp.png)
+
 - En este paso intentaremos entrar en phpMyadmin pero tendremos un error así que hay que configurar como en el ejemplo de la página https://tech.enekochan.com/es/2015/02/06/solucionar-configuration-pmadb-not-ok-en-phpmyadmin/  un archivo dentro de xampp llamado `config.inc.php`
 
 ![1](./img/img14.PNG)
