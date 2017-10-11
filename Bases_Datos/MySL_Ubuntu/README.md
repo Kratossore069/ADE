@@ -37,3 +37,34 @@ En esta práctica vamos a instalar el MySQL en una máquina Ubuntu.
 `Nos aparecerá una ventana que nos preguntará sobre instalar apache. Con la barra espaciadora aceptamos en apache.`
 
 ![9](./img/9.png)
+
+- A lo largo de la instalación nos preguntará sobre qué puerto queremos trabajar.
+
+![9](./img/11.png)
+
+- El usuario.
+
+![9](./img/12.png)
+
+- Es importante tener iniciado el Apache como muestra la imagen.
+
+![9](./img/13.png)
+
+- Con estos comandos habilitamos  las extensiones PHP`mcrypt`
+ y `mbstring`.
+
+![9](./img/14.png)
+
+- Debemos reiniciar el apache para los cambios surgidos.
+
+![9](./img/15.png)
+
+- Entramos en `localhost/phpmyadmin` e insertamos nuestro usuario y contraseña.
+
+![9](./img/16.png)
+
+- El archivo de configuración es `/etc/apache2/conf-enabled/`.
+
+- El usuario propietario de la instalación es `mysql`.
+
+- El proceso demonio es `mysqld`
