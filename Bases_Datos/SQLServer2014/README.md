@@ -26,3 +26,7 @@ Ahora iniciamos la descarga de **Management Studio** de esta página https://doc
 Después de reiniciar el ordenador, hacemos una prueba de conexión con en **SQl Server** .
 
 ![](./img/9.png)
+
+Hacemos conexión, viendo que es satisfactoria.
+
+![](./img/10.png)
