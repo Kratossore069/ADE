@@ -20,9 +20,15 @@
 
 * El **General Query Log** establece conexiones de cliente e información recibida de los clientes. Información sacada de https://dev.mysql.com/doc/refman/5.7/en/server-logs.html
 
-* Comprobamos el funcionamiento de los errores.
+* Comprobamos el funcionamiento de los errores. Nos conectamos al servidor de un compañero para autentificar que funciona.
 
 ![](./img/4.png)
+
+![](./img/7.png)
+
+![](./img/9.png)
+
+![](./img/10.png)
 
 * Accediendo al fichero de los logs dentro del Workbench en `Server Logs` podemos observar las últimas conexiones y consultas realizadas.
 
