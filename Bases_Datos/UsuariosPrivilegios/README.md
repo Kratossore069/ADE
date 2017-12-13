@@ -1,5 +1,7 @@
 # Práctica Usuarios y Privilegios MySQL
 
+##### Máquina virtual : Windows7 - Bases de Datos
+
 ![](./img/1.png)
 
 *Vamos a usar la base de datos de jardinería donde efectuaremos las consultas.*
@@ -30,4 +32,10 @@
 
 ![](./img/10.png)
 
-*Vamos a modificar la contraseña de alumno y veremos si entramos correctamente. PUNTO 6*
+*Vamos a modificar la contraseña de alumno y veremos si entramos correctamente.*
+
+![](./img/11.png)
+
+![](./img/12.png)
+
+*Modificar el host desde donde pueda acceder un alumno a una dirección IP. PUNTO 7*
